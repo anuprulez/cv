@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.2)  23 FEB 2018 16:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2018.2.2)  23 FEB 2018 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -336,9 +336,9 @@ Overfull \hbox (18.0pt too wide) in paragraph at lines 110--115
  []
 
 
-Overfull \hbox (38.067pt too wide) in paragraph at lines 118--119
-[]\OT1/cmr/m/n/10.95 Machine learn-ing, In-for-ma-tion re-trieval, Text and Gra
-ph-i-cal data anal-y-sis, Math-e-mat-i-cal
+Overfull \hbox (7.02676pt too wide) in paragraph at lines 118--119
+[]\OT1/cmr/m/n/10.95 Machine and deep learn-ing, in-for-ma-tion re-trieval, tex
+t and graph-i-cal data anal-y-sis,
  []
 
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 125.
@@ -360,11 +360,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 164--165
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 170--171
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 176--177
 
  []
 
@@ -402,7 +397,7 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></usr/share/tex
 live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on cv_anupkumar2.pdf (1 page, 80234 bytes).
+Output written on cv_anupkumar2.pdf (1 page, 80834 bytes).
 PDF statistics:
  91 PDF objects out of 1000 (max. 8388607)
  81 compressed objects within 1 object stream
